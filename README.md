@@ -4,7 +4,7 @@ This repository contains image artworks generated using Artificial Intelligence 
 
 ## 🎨 Creative Process & Tools
 
-The images in this repository were created using AI generative models (e.g., ChatGPT) based on custom text prompts, iterative parameter adjustments, and post-processing workflows.
+The images in this repository were created using AI generative models (e.g., ChatGPT / Gemini) based on custom text prompts, iterative parameter adjustments, and post-processing workflows.
 
 ## 📜 Usage & Licensing
 
