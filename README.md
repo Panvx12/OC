@@ -1,12 +1,21 @@
-# AI Artwork Showcase
+# 🎭 AI-Generated Original Character (OC) Gallery
 
-This repository contains image artworks generated using Artificial Intelligence (AI) tools.
+Welcome! This repository serves as a showcase for my **Original Characters (OCs)** brought to life using Artificial Intelligence (AI) tools.
 
 ## 🎨 Creative Process & Tools
 
-The images in this repository were created using AI generative models (e.g., ChatGPT / Gemini) based on custom text prompts, iterative parameter adjustments, and post-processing workflows.
+All characters and visual concepts are designed using AI generative models (e.g., ChatGPT / Gemini) combined with detailed character design prompts, iterative generation, and digital post-processing.
 
-## 📜 Usage & Licensing
+## 👤 Original Characters (OCs)
 
-- **Attribution:** Feel free to use, share, or adapt these images, but please credit this repository when doing so.
-- **AI Transparency:** These visual assets are produced with the assistance of AI algorithms.
+This showcase includes character designs, concepts, and key Visuals for:
+- **[Character Name 1]** — Short description / role (e.g., *A cyberpunk hacker*)
+- **[Character Name 2]** — Short description / role (e.g., *A fantasy mage*)
+
+*(Detailed character backstories, prompt logs, and lore can be found in their respective character folders.)*
+
+## 📜 Usage & Copyright Guidelines
+
+- **Personal & Non-Commercial Use:** You are welcome to view and share these images for non-commercial personal appreciation, provided you give attribution to this repository.
+- **OC Copyright:** The visual designs, character concepts, names, and backstories remain my original IP (Intellectual Property). Please **do not** claim these characters as your own, re-sell them, or use them for commercial projects without permission.
+- **AI Transparency:** All artwork in this repository is generated with AI assistance.
